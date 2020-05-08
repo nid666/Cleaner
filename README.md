@@ -2,6 +2,7 @@
 Simple CLI tool to increase Bitcoin anonymity using Monero 
 
 # :pencil: Install on TailsOS
+## First navigate to the persistent directory
 ```
 git clone https://github.com/nid666/Cleaner/
 cd Cleaner
