@@ -13,3 +13,5 @@ chmod +x start.sh
 * Create better interface
 * Add QR codes for bitcoin deposit
 * Add ETA until coins are done being exchanged
+* Add total fee calculator
+* Add option to increase number of monero wallet switches
