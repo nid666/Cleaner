@@ -1,7 +1,8 @@
 import morph
 import datetime
 from pywallet import wallet
-
+from monero.wallet import Wallet
+from monero.backends.jsonrpc import JSONRPCWallet
 
 #this part creates and saves the temporary bitcoin seed incase the transaction goes wrong along with a timestamp
 seed = wallet.generate_mnemonic()
