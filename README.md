@@ -16,3 +16,5 @@ chmod +x start.sh
 * Add ETA until coins are done being exchanged
 * Add total fee calculator
 * Add option to increase number of monero wallet switches
+* bundle installation options into start.sh
+* add password support for saved monero wallets
